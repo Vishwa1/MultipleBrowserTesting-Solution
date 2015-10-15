@@ -19,16 +19,6 @@ namespace MultipleBrowserTesting
         private IWebDriver _driver;
 
         [Test]
-        public void Can_Access_Allocate()
-        {
-            _driver = new TWebDriver();
-
-            // Navigate
-            _driver.Manage().Window.Maximize();
-            _driver.Navigate().GoToUrl("http://vve-9020-7/ZarionAllocate.UI/");
-        }
-
-        [Test]
         public void Can_Visit_Google()
         {
             _driver = new TWebDriver();
@@ -41,7 +31,7 @@ namespace MultipleBrowserTesting
         [TestFixtureTearDown]
         public void FixtureTearDown()
         {
-            //if (_driver != null) 
+            if (_driver != null) 
                 _driver.Close();
         }
     }
