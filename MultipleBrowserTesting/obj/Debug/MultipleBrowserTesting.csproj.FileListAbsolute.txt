@@ -11,9 +11,6 @@ c:\users\vvibhute\documents\visual studio 2013\Projects\MultipleBrowserTesting\M
 c:\users\vvibhute\documents\visual studio 2013\Projects\MultipleBrowserTesting\MultipleBrowserTesting\obj\Debug\MultipleBrowserTesting.exe
 c:\users\vvibhute\documents\visual studio 2013\Projects\MultipleBrowserTesting\MultipleBrowserTesting\obj\Debug\MultipleBrowserTesting.pdb
 C:\Users\VVibhute\Documents\GitHub\MultipleBrowserTesting-Solution\MultipleBrowserTesting\bin\Debug\MultipleBrowserTesting.exe.config
-C:\Users\VVibhute\Documents\GitHub\MultipleBrowserTesting-Solution\MultipleBrowserTesting\obj\Debug\MultipleBrowserTesting.exe
-C:\Users\VVibhute\Documents\GitHub\MultipleBrowserTesting-Solution\MultipleBrowserTesting\obj\Debug\MultipleBrowserTesting.pdb
-C:\Users\VVibhute\Documents\GitHub\MultipleBrowserTesting-Solution\MultipleBrowserTesting\obj\Debug\MultipleBrowserTesting.csprojResolveAssemblyReference.cache
 C:\Users\VVibhute\Documents\GitHub\MultipleBrowserTesting-Solution\MultipleBrowserTesting\bin\Debug\MultipleBrowserTesting.exe
 C:\Users\VVibhute\Documents\GitHub\MultipleBrowserTesting-Solution\MultipleBrowserTesting\bin\Debug\MultipleBrowserTesting.pdb
 C:\Users\VVibhute\Documents\GitHub\MultipleBrowserTesting-Solution\MultipleBrowserTesting\bin\Debug\nunit.framework.dll
@@ -22,3 +19,6 @@ C:\Users\VVibhute\Documents\GitHub\MultipleBrowserTesting-Solution\MultipleBrows
 C:\Users\VVibhute\Documents\GitHub\MultipleBrowserTesting-Solution\MultipleBrowserTesting\bin\Debug\nunit.framework.xml
 C:\Users\VVibhute\Documents\GitHub\MultipleBrowserTesting-Solution\MultipleBrowserTesting\bin\Debug\WebDriver.xml
 C:\Users\VVibhute\Documents\GitHub\MultipleBrowserTesting-Solution\MultipleBrowserTesting\bin\Debug\WebDriver.Support.xml
+C:\Users\VVibhute\Documents\GitHub\MultipleBrowserTesting-Solution\MultipleBrowserTesting\obj\Debug\MultipleBrowserTesting.exe
+C:\Users\VVibhute\Documents\GitHub\MultipleBrowserTesting-Solution\MultipleBrowserTesting\obj\Debug\MultipleBrowserTesting.pdb
+C:\Users\VVibhute\Documents\GitHub\MultipleBrowserTesting-Solution\MultipleBrowserTesting\obj\Debug\MultipleBrowserTesting.csprojResolveAssemblyReference.cache
